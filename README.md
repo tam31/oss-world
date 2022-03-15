@@ -2,7 +2,7 @@
 
 ##Test
 oss class test 
-*voluptate velit*.
+*voluptate velit*.<bar>
 **nostrud exercitation**
 
 
