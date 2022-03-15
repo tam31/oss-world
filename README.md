@@ -1,8 +1,8 @@
 # OSS
 
 ## Test
-oss class test 
-*voluptate velit*.<bar>
+oss class test    
+*voluptate velit*.   
 **nostrud exercitation**
 
 
