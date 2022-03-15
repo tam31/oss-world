@@ -1,12 +1,12 @@
-#안녕하세요
+#OSS
 
-##테스트
-oss수업 테스트 
+##Test
+oss class test 
 *voluptate velit*.
 **nostrud exercitation**
 
 
-```ㅓjavascript
+```javascript
 var foo = 'bar';
 if(true) foo = 'foo';
 ```
